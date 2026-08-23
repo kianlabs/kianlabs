@@ -17,6 +17,7 @@ const kian = {
   role: "Aspiring Full Stack Developer",
   learning: ["HTML/CSS", "JavaScript", "React", "Next.js", "Laravel"],
   goal: "Job-ready sebagai Web Developer 💼",
+  education: "Universitas Duta Bangsa Surakarta 🎓",
   funFact: "Coffee & code ☕"
 };
 ```
