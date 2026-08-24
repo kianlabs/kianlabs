@@ -80,11 +80,13 @@ const kian = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kianlabs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" width="100%"/>
+![Commits](https://img.shields.io/badge/Total%20Commits-76-667eea?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-2-764ba2?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Current%20Streak-2%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)
 
 </div>
 
