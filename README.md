@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kian&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress%20🚀&descAlignY=58&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&width=500&lines=Halo%2C+aku+Kian!+👋;Mahasiswa+Web+Developer;HTML+%7C+CSS+%7C+JS+%7C+React;Laravel+%7C+Next.js+%7C+Node.js;Building+cool+stuff+every+day+🔥" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=440&height=45&lines=Halo%2C+aku+Kian!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;HTML+%7C+CSS+%7C+JS+%7C+React;Laravel+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
 
 <br/>
 
