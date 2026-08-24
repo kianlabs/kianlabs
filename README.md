@@ -84,7 +84,7 @@ const kian = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kianlabs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kianlabs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" width="100%"/>
 
 </div>
 
