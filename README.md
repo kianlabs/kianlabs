@@ -23,7 +23,7 @@ const kian = {
   role     : "Web Developer",
   company  : "KyanDev — Jasa Pembuatan Website",
   stack    : ["Next.js", "React", "TypeScript", "Tailwind CSS", "GSAP", "Node.js"],
-  learning : ["GSAP Animations", "Full Stack Development"],
+  learning : ["AI / Machine Learning", "Full Stack Development"],
   status   : "🟢 Open to work & freelance"
 };
 ```
