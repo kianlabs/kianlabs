@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kian&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress%20🚀&descAlignY=58&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=440&height=45&lines=Halo%2C+aku+Kian!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;HTML+%7C+CSS+%7C+JS+%7C+React;Laravel+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=440&height=45&lines=Halo%2C+aku+Kian!+%F0%9F%91%8B;Web+Developer+%7C+KyanDev;Next.js+%7C+TypeScript+%7C+Tailwind;Building+websites+that+work" alt="Typing SVG" />
 
 <br/>
 
@@ -17,14 +17,14 @@
 
 ```javascript
 const kian = {
-  name     : "Kian",
-  location : "Indonesia 🇮🇩",
+  name     : "Ridzkyan (Kyan)",
+  location : "Kartasura, Sukoharjo 🇮🇩",
   education: "Universitas Duta Bangsa Surakarta 🎓",
-  role     : "Aspiring Full Stack Developer",
-  learning : ["HTML/CSS", "JavaScript", "React", "Next.js", "Node.js", "Laravel"],
-  goal     : "Job-ready sebagai Web Developer 💼",
-  funFact  : "Coffee & code ☕ — debug sampai subuh",
-  status   : "🟢 Open to work"
+  role     : "Web Developer",
+  company  : "KyanDev — Jasa Pembuatan Website",
+  stack    : ["Next.js", "React", "TypeScript", "Tailwind CSS", "GSAP", "Node.js"],
+  learning : ["GSAP Animations", "Full Stack Development"],
+  status   : "🟢 Open to work & freelance"
 };
 ```
 
@@ -84,9 +84,9 @@ const kian = {
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total%20Commits-76-667eea?style=for-the-badge&logo=git&logoColor=white)
-![Repos](https://img.shields.io/badge/Public%20Repos-2-764ba2?style=for-the-badge&logo=github&logoColor=white)
-![Streak](https://img.shields.io/badge/Current%20Streak-2%20days-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)
+![Commits](https://img.shields.io/badge/Total%20Commits-100+-667eea?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-5+-764ba2?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Current%20Streak-active-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)
 
 </div>
 
@@ -108,8 +108,10 @@ const kian = {
 
 | 🗂️ Project | 📝 Deskripsi | 🛠️ Tech | 🔗 Link |
 |------------|-------------|---------|---------|
-| **webpesanmakan** | Web pemesanan makanan online | PHP, Blade | [→ Lihat](https://github.com/kianlabs/webpesanmakan) |
-| **webjasacoding** | Web jasa coding freelance | TypeScript | [→ Lihat](https://github.com/kianlabs/webjasacoding) |
+| **portofolio** | Terminal-style portfolio website | Next.js, TypeScript, Tailwind, Framer Motion | [→ Live](https://kyandev.vercel.app) |
+| **webjasacoding** | KyanDev — Jasa pembuatan website | Next.js, TypeScript, Tailwind, GSAP | [→ Live](https://kyanweb.vercel.app) |
+| **skripsi** | UMKM Finance Classifier (ML) | Python, Flask, Gaussian Naïve Bayes | [→ GitHub](https://github.com/kianlabs/skripsi) |
+| **webpesanmakan** | Web pemesanan makanan online | PHP, Blade | [→ GitHub](https://github.com/kianlabs/webpesanmakan) |
 
 </div>
 
@@ -118,10 +120,10 @@ const kian = {
 ## 🎯 2026 Goals
 
 - [x] 🌱 Mulai belajar Web Development
-- [ ] ⚡ Kuasai React & Next.js
-- [ ] 🔥 Build 5+ portfolio projects
-- [ ] 💼 Dapet kerja sebagai Web Developer
-- [ ] 🚀 Contribute ke open source
+- [x] ⚡ Kuasai React & Next.js
+- [x] 🔥 Build portfolio projects
+- [x] 💼 Mulai jasa pembuatan website (KyanDev)
+- [ ] 🚀 Scale bisnis & dapet kerja sebagai Web Developer
 
 ---
 
