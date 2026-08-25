@@ -67,14 +67,9 @@ const kian = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kianlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kianlabs&theme=tokyonight&hide_border=true" width="70%"/>
+![Commits](https://img.shields.io/badge/Total%20Commits-100+-667eea?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-5+-764ba2?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/kianlabs?style=for-the-badge&color=764ba2)
 
 </div>
 
@@ -96,7 +91,10 @@ const kian = {
 
 <div align="center">
 
-<img src="https://github-contribution-grid.vercel.app/api/kianlabs?theme=tokyonight&border=none" width="100%"/>
+*Contribution graph loading...*
+
+[![GitHub Activity](https://img.shields.io/github/commit-activity/y/kianlabs?style=for-the-badge&color=764ba2)](https://github.com/kianlabs)
+[![GitHub First Commit](https://img.shields.io/github/first-commit/kianlabs?style=for-the-badge&color=667eea)](https://github.com/kianlabs)
 
 </div>
 
