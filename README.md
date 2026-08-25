@@ -67,22 +67,22 @@ const kian = {
 
 <div align="center">
 
-![Total Commits](https://img.shields.io/badge/Total%20Commits-100+-667eea?style=for-the-badge&logo=git&logoColor=white)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-5+-764ba2?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Followers](https://img.shields.io/github/followers/kianlabs?style=for-the-badge&color=764ba2)
+<img src="https://github-stats-extended.vercel.app/api?username=kianlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kianlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
----
+<div align="center">
 
-## 📈 Contribution Graph
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kianlabs&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
 
 <div align="center">
 
-*Contribution graph loading...*
-
-[![GitHub Activity](https://img.shields.io/github/commit-activity/y/kianlabs?style=for-the-badge&color=764ba2)](https://github.com/kianlabs)
-[![GitHub First Commit](https://img.shields.io/github/first-commit/kianlabs?style=for-the-badge&color=667eea)](https://github.com/kianlabs)
+[![Total Commits](https://ghstats.dev/api/mini?username=kianlabs&metric=commits&color=667eea)](https://ghstats.dev)
+[![Total Stars](https://ghstats.dev/api/mini?username=kianlabs&metric=stars&color=764ba2)](https://ghstats.dev)
+[![Followers](https://ghstats.dev/api/mini?username=kianlabs&metric=followers&color=ff6b6b)](https://ghstats.dev)
 
 </div>
 
