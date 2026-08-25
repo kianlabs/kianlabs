@@ -67,14 +67,14 @@ const kian = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=kianlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kianlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kianlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kianlabs&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kianlabs&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
@@ -96,7 +96,7 @@ const kian = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kianlabs&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-contribution-grid.vercel.app/api/kianlabs?theme=tokyonight&border=none" width="100%"/>
 
 </div>
 
