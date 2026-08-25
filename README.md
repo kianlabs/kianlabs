@@ -67,21 +67,9 @@ const kian = {
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total%20Commits-100+-667eea?style=for-the-badge&logo=git&logoColor=white)
-![Repos](https://img.shields.io/badge/Public%20Repos-5+-764ba2?style=for-the-badge&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/kianlabs?style=for-the-badge&color=764ba2)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Commits](https://img.shields.io/badge/Total%20Commits-100+-667eea?style=for-the-badge&logo=git&logoColor=white)
-![Repos](https://img.shields.io/badge/Public%20Repos-5+-764ba2?style=for-the-badge&logo=github&logoColor=white)
-![Streak](https://img.shields.io/badge/Current%20Streak-active-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-100+-667eea?style=for-the-badge&logo=git&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-5+-764ba2?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Followers](https://img.shields.io/github/followers/kianlabs?style=for-the-badge&color=764ba2)
 
 </div>
 
