@@ -74,15 +74,10 @@ const kian = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kianlabs&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
-<div align="center">
-
 [![Total Commits](https://ghstats.dev/api/mini?username=kianlabs&metric=commits&color=667eea)](https://ghstats.dev)
 [![Total Stars](https://ghstats.dev/api/mini?username=kianlabs&metric=stars&color=764ba2)](https://ghstats.dev)
 [![Followers](https://ghstats.dev/api/mini?username=kianlabs&metric=followers&color=ff6b6b)](https://ghstats.dev)
+[![Streak](https://ghstats.dev/api/mini?username=kianlabs&metric=streak&color=f97316)](https://ghstats.dev)
 
 </div>
 
