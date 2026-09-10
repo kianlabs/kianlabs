@@ -89,6 +89,18 @@ const kian = {
 
 ---
 
+## 🏅 Achievements
+
+<div align="center">
+
+[![YOLO](https://img.shields.io/badge/YOLO-merged_without_review-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kianlabs?tab=achievements)
+
+*Merged a pull request without a review — YOLO! 🚀 More achievements unlocking...*
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
