@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kianlabs&label=Profile%20Views&color=667eea&style=for-the-badge)](https://github.com/kianlabs)
 [![GitHub followers](https://img.shields.io/github/followers/kianlabs?label=Followers&style=for-the-badge&color=764ba2)](https://github.com/kianlabs?tab=followers)
-[![Open to freelance](https://img.shields.io/badge/Open_to-freelance-available-667eea?style=for-the-badge)](https://kyandev.vercel.app)
+[![Open to freelance](https://img.shields.io/badge/Open_to_freelance-available-667eea?style=for-the-badge)](https://kyandev.vercel.app)
 
 </div>
 
