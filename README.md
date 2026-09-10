@@ -94,6 +94,7 @@ const kian = {
 <div align="center">
 
 [![YOLO](https://img.shields.io/badge/YOLO-merged_without_review-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kianlabs?tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/Quickdraw-closed_in_11_seconds-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kianlabs?tab=achievements)
 
 *Merged a pull request without a review — YOLO! 🚀 More achievements unlocking...*
 
