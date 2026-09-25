@@ -58,6 +58,8 @@ const kian = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools**
 
@@ -108,6 +110,7 @@ const kian = {
 
 | 🗂️ Project | 📝 Deskripsi | 🛠️ Tech | 🔗 Link |
 |------------|-------------|---------|---------|
+| **uangku (UangKu)** | Expense tracker fullstack + PWA + login Google (live, custom domain) | Next.js, FastAPI, PostgreSQL, OAuth | [→ Live](https://uangku-web.my.id) · [→ GitHub](https://github.com/kianlabs/uangku) |
 | **pintujatiminimalis** | Company profile pintu baja (client, custom domain) | Astro, Tailwind | [→ Live](https://pintujatiminimalis.id) · [→ GitHub](https://github.com/kianlabs/pintujatiminimalis) |
 | **pos-kasir-modern** | Aplikasi POS/kasir modern | TypeScript, Tailwind | [→ GitHub](https://github.com/kianlabs/pos-kasir-modern) |
 | **opencode-visualizer** | Realtime pixel-art office scene + animated agents | HTML, JavaScript, Canvas | [→ GitHub](https://github.com/kianlabs/opencode-visualizer) |
