@@ -30,7 +30,7 @@ const kian = {
 };
 ```
 
-🌱 **Sedang fokus:** pendalaman JavaScript/HTML/CSS fundamentals — dokumentasi di [`belajar-programming`](https://github.com/kianlabs/belajar-programming) + garap project client (Astro) & POS modern.
+🌱 **Sedang fokus:** fullstack development (Next.js + FastAPI + PostgreSQL) — garap UangKu, project client (Astro) & POS modern.
 
 ---
 
@@ -120,8 +120,6 @@ const kian = {
 
 </div>
 
-> 📚 Lagi perdalam fundamentals? Lihat [`belajar-programming`](https://github.com/kianlabs/belajar-programming) — catatan JS + HTML + CSS (if/else, loop, function, array, object, form, localStorage).
-
 ---
 
 ## 📫 Connect with Me
@@ -145,7 +143,7 @@ const kian = {
 - [x] 🔥 Build & deploy portfolio projects
 - [x] 💼 Jalanin jasa pembuatan website (KyanDev)
 - [ ] 🚀 Scale bisnis & dapet kerja sebagai Web Developer
-- [ ] 📖 Selesaikan track `belajar-programming` → lanjut Fullstack (Next.js + DB)
+- [ ] 📖 Dalami Fullstack (Next.js + FastAPI + PostgreSQL) lewat project produksi
 - [ ] 🤖 Ship 1 project AI/ML kecil ke production
 
 ---
