@@ -78,7 +78,7 @@ const kian = {
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=kianlabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub stats"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kianlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kianlabs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=HTML&exclude_repo=belajar-programming" height="180" alt="Top languages"/>
 
 <br/>
 
