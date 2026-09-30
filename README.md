@@ -26,7 +26,7 @@ const kian = {
   stack    : ["Next.js", "React", "TypeScript", "Astro", "Tailwind CSS", "Node.js"],
   learning : ["JavaScript Fundamentals", "Full Stack Development", "AI / Machine Learning"],
   focus    : "Client projects + fundamentals yang solid",
-  status   : "🟢 Open to work & freelance"
+  status   : "🎓 Fresh graduate Okt 2026 — 🟢 Open to work as Fullstack Developer"
 };
 ```
 
@@ -117,6 +117,7 @@ const kian = {
 | **portofolio** | Portfolio pribadi (KYAN.DEV) | TypeScript, Next.js, Framer Motion | [→ Live](https://kyandev.vercel.app) · [→ GitHub](https://github.com/kianlabs/portofolio) |
 | **webjasacoding** | KyanDev — jasa pembuatan website | Next.js, TypeScript, GSAP | [→ GitHub](https://github.com/kianlabs/webjasacoding) |
 | **skripsi** | UMKM Finance Classifier (ML) | Python, Flask, Gaussian Naïve Bayes | [→ GitHub](https://github.com/kianlabs/skripsi) |
+| **nobarhub (NobarHub)** | Katalog film + streaming legal (trailer resmi YouTube), PWA-first | Next.js, TypeScript, PWA | [→ GitHub](https://github.com/kianlabs/nobarhub) |
 
 </div>
 
