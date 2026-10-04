@@ -113,7 +113,7 @@ const kian = {
 | **pintujatiminimalis** | Company profile pintu baja (client, custom domain) | Astro, Tailwind | [→ Live](https://pintujatiminimalis.id) · [→ GitHub](https://github.com/kianlabs/pintujatiminimalis) |
 | **pos-kasir-modern** | Aplikasi POS/kasir modern | TypeScript, Tailwind | [→ GitHub](https://github.com/kianlabs/pos-kasir-modern) |
 | **opencode-visualizer** | Realtime pixel-art office scene + animated agents | HTML, JavaScript, Canvas | [→ GitHub](https://github.com/kianlabs/opencode-visualizer) |
-| **portofolio** | Portfolio pribadi (KYAN.DEV) | TypeScript, Next.js, Framer Motion | [→ Live](https://kian.my.id) · [→ GitHub](https://github.com/kianlabs/portofolio) |
+| **portofolio** | Portfolio pribadi (KYAN.DEV) | TypeScript, Next.js, Framer Motion | [→ Live](https://kian.my.id) |
 | **webjasacoding** | KyanDev — jasa pembuatan website | Next.js, TypeScript, GSAP | [→ GitHub](https://github.com/kianlabs/webjasacoding) |
 | **skripsi** | UMKM Finance Classifier (ML) | Python, Flask, Gaussian Naïve Bayes | [→ GitHub](https://github.com/kianlabs/skripsi) |
 | **nobarhub (NobarHub)** | Katalog film + streaming legal (trailer resmi YouTube), PWA-first | Next.js, TypeScript, PWA | [→ GitHub](https://github.com/kianlabs/nobarhub) |
