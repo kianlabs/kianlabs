@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kian&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress%20🚀&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kian&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20🚀&descAlignY=58&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=440&height=45&lines=Halo%2C+aku+Kian!+%F0%9F%91%8B;Web+Developer+%7C+KyanDev;Next.js+%7C+TypeScript+%7C+Tailwind;Building+websites+that+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=440&height=45&lines=Halo%2C+aku+Kian!+%F0%9F%91%8B;Laravel+%7C+React+%7C+Next.js;Full-Stack+Web+Developer;Building+websites+that+work" alt="Typing SVG" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kianlabs&label=Profile%20Views&color=667eea&style=for-the-badge)](https://github.com/kianlabs)
 [![GitHub followers](https://img.shields.io/github/followers/kianlabs?label=Followers&style=for-the-badge&color=764ba2)](https://github.com/kianlabs?tab=followers)
-[![Open to freelance](https://img.shields.io/badge/Open_to_freelance-available-667eea?style=for-the-badge)](https://kyandev.vercel.app)
+[![Open to freelance](https://img.shields.io/badge/Open_to_freelance-available-667eea?style=for-the-badge)](https://kian.my.id)
 
 </div>
 
@@ -23,7 +23,7 @@ const kian = {
   education: "Universitas Duta Bangsa Surakarta 🎓",
   role     : "Web Developer",
   company  : "KyanDev — Jasa Pembuatan Website",
-  stack    : ["Next.js", "React", "TypeScript", "Astro", "Tailwind CSS", "Node.js"],
+  stack    : ["Laravel", "React", "Next.js", "MySQL", "TypeScript", "Tailwind CSS", "Node.js"],
   learning : ["JavaScript Fundamentals", "Full Stack Development", "AI / Machine Learning"],
   focus    : "Client projects + fundamentals yang solid",
   status   : "🎓 Fresh graduate Okt 2026 — 🟢 Open to work as Fullstack Developer"
@@ -114,7 +114,7 @@ const kian = {
 | **pintujatiminimalis** | Company profile pintu baja (client, custom domain) | Astro, Tailwind | [→ Live](https://pintujatiminimalis.id) · [→ GitHub](https://github.com/kianlabs/pintujatiminimalis) |
 | **pos-kasir-modern** | Aplikasi POS/kasir modern | TypeScript, Tailwind | [→ GitHub](https://github.com/kianlabs/pos-kasir-modern) |
 | **opencode-visualizer** | Realtime pixel-art office scene + animated agents | HTML, JavaScript, Canvas | [→ GitHub](https://github.com/kianlabs/opencode-visualizer) |
-| **portofolio** | Portfolio pribadi (KYAN.DEV) | TypeScript, Next.js, Framer Motion | [→ Live](https://kyandev.vercel.app) · [→ GitHub](https://github.com/kianlabs/portofolio) |
+| **portofolio** | Portfolio pribadi (KYAN.DEV) | TypeScript, Next.js, Framer Motion | [→ Live](https://kian.my.id) · [→ GitHub](https://github.com/kianlabs/portofolio) |
 | **webjasacoding** | KyanDev — jasa pembuatan website | Next.js, TypeScript, GSAP | [→ GitHub](https://github.com/kianlabs/webjasacoding) |
 | **skripsi** | UMKM Finance Classifier (ML) | Python, Flask, Gaussian Naïve Bayes | [→ GitHub](https://github.com/kianlabs/skripsi) |
 | **nobarhub (NobarHub)** | Katalog film + streaming legal (trailer resmi YouTube), PWA-first | Next.js, TypeScript, PWA | [→ GitHub](https://github.com/kianlabs/nobarhub) |
@@ -127,7 +127,7 @@ const kian = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kyandev.vercel.app-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://kyandev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kian.my.id-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://kian.my.id)
 [![KyanDev](https://img.shields.io/badge/KyanDev-webjasacoding-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kianlabs/webjasacoding)
 [![GitHub](https://img.shields.io/badge/GitHub-kianlabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kianlabs)
 
