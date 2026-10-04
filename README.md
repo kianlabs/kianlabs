@@ -24,13 +24,12 @@ const kian = {
   role     : "Web Developer",
   company  : "KyanDev — Jasa Pembuatan Website",
   stack    : ["Laravel", "React", "Next.js", "MySQL", "TypeScript", "Tailwind CSS", "Node.js"],
-  learning : ["JavaScript Fundamentals", "Full Stack Development", "AI / Machine Learning"],
+  learning : ["Full Stack Development", "AI / Machine Learning"],
   focus    : "Client projects + fundamentals yang solid",
   status   : "🎓 Fresh graduate Okt 2026 — 🟢 Open to work as Fullstack Developer"
 };
 ```
 
-🌱 **Sedang fokus:** fullstack development (Next.js + FastAPI + PostgreSQL) — garap UangKu, project client (Astro) & POS modern.
 
 ---
 
