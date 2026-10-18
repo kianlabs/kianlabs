@@ -109,14 +109,11 @@ const kian = {
 
 | 🗂️ Project | 📝 Deskripsi | 🛠️ Tech | 🔗 Link |
 |------------|-------------|---------|---------|
+| **QVAULT** | Local-First Password Vault & Life OS (zero-knowledge Argon2id/AES-256-GCM encryption) | Tauri 2, Rust, React 19, SQLite | [→ Case Study](https://kian.my.id/work/qvault) · [→ GitHub](https://github.com/kianlabs/qvault) |
 | **KRING! (pos-kasir-modern)** | Multi-tenant cloud POS SaaS: cashier screen, stock, shifts & AI insight | Next.js 16, TypeScript, Prisma, PostgreSQL | [→ Live](https://pos-kasir-modern-sigma.vercel.app) · [→ GitHub](https://github.com/kianlabs/pos-kasir-modern) |
 | **UangKu (uangku)** | Production personal finance tracker + Google OAuth + budgets & PDF/CSV export | Next.js, FastAPI, PostgreSQL, PWA | [→ Live](https://uangku-web.my.id) · [→ GitHub](https://github.com/kianlabs/uangku) |
-| **GaweTracker** | Realtime job discovery scraper (Glints & JobStreet) & application Kanban pipeline | Laravel, PHP, MySQL, Tailwind CSS | [→ Live](https://gawetracker.kianlabs.my.id) · [→ GitHub](https://github.com/kianlabs/gawetracker) |
 | **DocuAsk** | Multi-tenant RAG application: upload PDFs & get cited answers with pgvector | Next.js, TypeScript, pgvector, Docker | [→ GitHub](https://github.com/kianlabs/docuask) |
-| **Eddy Barbershop** | Sistem booking barbershop online + pemilihan jadwal kapster & notifikasi WhatsApp | Laravel 13, Inertia, React, MySQL | [→ Live](https://eddybarber.vercel.app) · [→ GitHub](https://github.com/kianlabs/eddy-barbershop) |
-| **Pintu Jati Minimalis** | Bilingual company profile & video portfolio pengrajin mebel jati (Client) | Astro, Tailwind CSS | [→ Live](https://pintujatiminimalis.id) · [→ GitHub](https://github.com/kianlabs/pintujatiminimalis) |
-| **OpenCode Visualizer** | Real-time pixel-art office scene dengan agen otonom teranimasi di HTML5 Canvas | HTML5 Canvas, JavaScript, CSS | [→ GitHub](https://github.com/kianlabs/opencode-visualizer) |
-| **UMKM Classifier (skripsi)** | Klasifikasi kesehatan finansial UMKM berbasis Machine Learning | Python, Flask, Gaussian Naïve Bayes | [→ GitHub](https://github.com/kianlabs/skripsi) |
+| **GaweTracker** | Realtime job discovery scraper (Glints & JobStreet) & application Kanban pipeline | Laravel, PHP, MySQL, Tailwind CSS | [→ Live](https://gawetracker.kianlabs.my.id) · [→ GitHub](https://github.com/kianlabs/gawetracker) |
 
 </div>
 
