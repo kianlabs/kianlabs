@@ -109,14 +109,14 @@ const kian = {
 
 | 🗂️ Project | 📝 Deskripsi | 🛠️ Tech | 🔗 Link |
 |------------|-------------|---------|---------|
-| **uangku (UangKu)** | Expense tracker fullstack + PWA + login Google (live, custom domain) | Next.js, FastAPI, PostgreSQL, OAuth | [→ Live](https://uangku-web.my.id) · [→ GitHub](https://github.com/kianlabs/uangku) |
-| **pintujatiminimalis** | Company profile pintu baja (client, custom domain) | Astro, Tailwind | [→ Live](https://pintujatiminimalis.id) · [→ GitHub](https://github.com/kianlabs/pintujatiminimalis) |
-| **pos-kasir-modern** | Aplikasi POS/kasir modern | TypeScript, Tailwind | [→ GitHub](https://github.com/kianlabs/pos-kasir-modern) |
-| **opencode-visualizer** | Realtime pixel-art office scene + animated agents | HTML, JavaScript, Canvas | [→ GitHub](https://github.com/kianlabs/opencode-visualizer) |
-| **portofolio** | Portfolio pribadi (KYAN.DEV) | TypeScript, Next.js, Framer Motion | [→ Live](https://kian.my.id) |
-| **webjasacoding** | KyanDev — jasa pembuatan website | Next.js, TypeScript, GSAP | [→ GitHub](https://github.com/kianlabs/webjasacoding) |
-| **skripsi** | UMKM Finance Classifier (ML) | Python, Flask, Gaussian Naïve Bayes | [→ GitHub](https://github.com/kianlabs/skripsi) |
-| **nobarhub (NobarHub)** | Katalog film + streaming legal (trailer resmi YouTube), PWA-first | Next.js, TypeScript, PWA | [→ GitHub](https://github.com/kianlabs/nobarhub) |
+| **KRING! (pos-kasir-modern)** | Multi-tenant cloud POS SaaS: cashier screen, stock, shifts & AI insight | Next.js 16, TypeScript, Prisma, PostgreSQL | [→ Live](https://pos-kasir-modern-sigma.vercel.app) · [→ GitHub](https://github.com/kianlabs/pos-kasir-modern) |
+| **UangKu (uangku)** | Production personal finance tracker + Google OAuth + budgets & PDF/CSV export | Next.js, FastAPI, PostgreSQL, PWA | [→ Live](https://uangku-web.my.id) · [→ GitHub](https://github.com/kianlabs/uangku) |
+| **GaweTracker** | Realtime job discovery scraper (Glints & JobStreet) & application Kanban pipeline | Laravel, PHP, MySQL, Tailwind CSS | [→ Live](https://gawetracker.kianlabs.my.id) · [→ GitHub](https://github.com/kianlabs/gawetracker) |
+| **DocuAsk** | Multi-tenant RAG application: upload PDFs & get cited answers with pgvector | Next.js, TypeScript, pgvector, Docker | [→ GitHub](https://github.com/kianlabs/docuask) |
+| **Eddy Barbershop** | Sistem booking barbershop online + pemilihan jadwal kapster & notifikasi WhatsApp | Laravel 13, Inertia, React, MySQL | [→ Live](https://eddybarber.vercel.app) · [→ GitHub](https://github.com/kianlabs/eddy-barbershop) |
+| **Pintu Jati Minimalis** | Bilingual company profile & video portfolio pengrajin mebel jati (Client) | Astro, Tailwind CSS | [→ Live](https://pintujatiminimalis.id) · [→ GitHub](https://github.com/kianlabs/pintujatiminimalis) |
+| **OpenCode Visualizer** | Real-time pixel-art office scene dengan agen otonom teranimasi di HTML5 Canvas | HTML5 Canvas, JavaScript, CSS | [→ GitHub](https://github.com/kianlabs/opencode-visualizer) |
+| **UMKM Classifier (skripsi)** | Klasifikasi kesehatan finansial UMKM berbasis Machine Learning | Python, Flask, Gaussian Naïve Bayes | [→ GitHub](https://github.com/kianlabs/skripsi) |
 
 </div>
 
