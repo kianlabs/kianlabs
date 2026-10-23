@@ -18,9 +18,9 @@
 
 ```javascript
 const kian = {
-  name     : "Ridzkyan (Kyan)",
+  name     : "Ridzkyan Buti Pratama (Kyan)",
   location : "Kartasura, Sukoharjo 🇮🇩",
-  education: "Universitas Duta Bangsa Surakarta 🎓",
+  education: "S1 Teknik Informatika — Universitas Duta Bangsa Surakarta (IPK 3,69) 🎓",
   role     : "Web Developer",
   company  : "KyanDev — Jasa Pembuatan Website",
   stack    : ["Laravel", "React", "Next.js", "MySQL", "TypeScript", "Tailwind CSS", "Node.js"],
@@ -43,10 +43,10 @@ const kian = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 **Backend & Data**
@@ -64,7 +64,7 @@ const kian = {
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -90,16 +90,11 @@ const kian = {
 
 ---
 
-## 🏅 Achievements
+## 🏅 Sertifikasi
 
-<div align="center">
-
-[![YOLO](https://img.shields.io/badge/YOLO-merged_without_review-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kianlabs?tab=achievements)
-[![Quickdraw](https://img.shields.io/badge/Quickdraw-closed_in_11_seconds-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kianlabs?tab=achievements)
-
-*Merged a pull request without a review — YOLO! 🚀 More achievements unlocking...*
-
-</div>
+- **Junior Web Programmer** — BNSP (Badan Nasional Sertifikasi Profesi), 2026
+- **Belajar Dasar Cloud dan Gen AI di AWS** — Dicoding Indonesia, 2026
+- **Spec-Driven Development dengan Kiro** — Dicoding Indonesia, 2026
 
 ---
 
@@ -109,11 +104,13 @@ const kian = {
 
 | 🗂️ Project | 📝 Deskripsi | 🛠️ Tech | 🔗 Link |
 |------------|-------------|---------|---------|
-| **QVAULT** | Local-First Password Vault & Life OS (zero-knowledge Argon2id/AES-256-GCM encryption) | Tauri 2, Rust, React 19, SQLite | [→ Case Study](https://kian.my.id/work/qvault) · [→ GitHub](https://github.com/kianlabs/qvault) |
-| **KRING! (pos-kasir-modern)** | Multi-tenant cloud POS SaaS: cashier screen, stock, shifts & AI insight | Next.js 16, TypeScript, Prisma, PostgreSQL | [→ Live](https://pos-kasir-modern-sigma.vercel.app) · [→ GitHub](https://github.com/kianlabs/pos-kasir-modern) |
-| **UangKu (uangku)** | Production personal finance tracker + Google OAuth + budgets & PDF/CSV export | Next.js, FastAPI, PostgreSQL, PWA | [→ Live](https://uangku-web.my.id) · [→ GitHub](https://github.com/kianlabs/uangku) |
-| **DocuAsk** | Multi-tenant RAG application: upload PDFs & get cited answers with pgvector | Next.js, TypeScript, pgvector, Docker | [→ GitHub](https://github.com/kianlabs/docuask) |
-| **GaweTracker** | Realtime job discovery scraper (Glints & JobStreet) & application Kanban pipeline | Laravel, PHP, MySQL, Tailwind CSS | [→ Live](https://gawetracker.kianlabs.my.id) · [→ GitHub](https://github.com/kianlabs/gawetracker) |
+| **KRING! (pos-kasir-modern)** | Multi-tenant cloud POS untuk UMKM: layar kasir cepat, stok, rekonsiliasi shift & insight AI | Next.js 16, TypeScript, Prisma, PostgreSQL | [→ Live](https://kringkasir.vercel.app) · [→ GitHub](https://github.com/kianlabs/pos-kasir-modern) |
+| **UangKu (uangku)** | Personal finance tracker versi produksi + Google OAuth + budget kategori & ekspor PDF/CSV | Next.js, FastAPI, PostgreSQL, PWA | [→ Live](https://uangku-web.my.id) · [→ GitHub](https://github.com/kianlabs/uangku) |
+| **DocuAsk** | Aplikasi RAG multi-tenant: upload PDF & dapatkan jawaban bersitasi dengan pgvector | Next.js, TypeScript, pgvector, Docker | [→ GitHub](https://github.com/kianlabs/docuask) |
+| **GaweTracker** | Job discovery scraper realtime (Glints & JobStreet) & tracker lamaran model Kanban | Laravel, PHP, MySQL, Tailwind CSS | [→ Live](https://gawetracker.kianlabs.my.id) · [→ GitHub](https://github.com/kianlabs/gawetracker) |
+| **Eddy Barbershop** | Sistem booking barbershop online: pilih kapster & jadwal, pelacakan via WhatsApp, dashboard admin | Laravel, MySQL, React | [→ Case Study](https://kian.my.id/work/eddybarber) · [→ GitHub](https://github.com/kianlabs/eddy-barbershop) |
+| **DanKas** | Pencatatan keuangan toko baju DAN'S LABEL Surakarta — pekerjaan klien nyata, mobile-first PWA | Next.js, TypeScript, Supabase | [→ Live](https://danskas.vercel.app) · [→ GitHub](https://github.com/kianlabs/dankas) |
+| **UMKM Finance Classifier** | Skripsi: klasifikasi kesehatan keuangan UMKM dengan Gaussian Naïve Bayes (akurasi 88,9%) | Python, scikit-learn, Flask | [→ GitHub](https://github.com/kianlabs/umkm-finance-classifier) |
 
 </div>
 
@@ -124,7 +121,8 @@ const kian = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kian.my.id-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://kian.my.id)
-[![KyanDev](https://img.shields.io/badge/KyanDev-webjasacoding-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kianlabs/webjasacoding)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ridzkyan_Buti_Pratama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridzkyan-pratama-7911b441b)
+[![Email](https://img.shields.io/badge/Email-ridzkyan0504@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridzkyan0504@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kianlabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kianlabs)
 
 📍 Kartasura, Sukoharjo — open untuk freelance pembuatan website (company profile, landing page, POS, portfolio).
