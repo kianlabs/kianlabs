@@ -8,10 +8,10 @@ import { fonts, gopherBust, palettes, svg } from './art/gopher.mjs';
 
 const outDir = join(dirname(fileURLToPath(import.meta.url)), '..', 'assets', 'art');
 
-const sparkle = (x, y, s = 1, delay = 0) =>
+export const sparkle = (x, y, s = 1, delay = 0) =>
   `<g transform="translate(${x} ${y}) scale(${s})"><path class="acc fb twinkle" style="animation-delay:${delay}s" d="M0 -8 L2.4 -2.4 8 0 2.4 2.4 0 8 -2.4 2.4 -8 0 -2.4 -2.4 Z"/></g>`;
 
-const props = {
+export const props = {
   about: `
     <g class="wave" style="transform-origin: 86px 78px">
       <ellipse class="tan" cx="100" cy="50" rx="10" ry="8"/>
@@ -94,11 +94,13 @@ function footer(palette) {
   });
 }
 
-mkdirSync(outDir, { recursive: true });
-for (const [mode, palette] of Object.entries(palettes)) {
-  for (const name of Object.keys(props)) {
-    writeFileSync(join(outDir, `${name}-${mode}.svg`), icon(name, palette));
+if (import.meta.main) {
+  mkdirSync(outDir, { recursive: true });
+  for (const [mode, palette] of Object.entries(palettes)) {
+    for (const name of Object.keys(props)) {
+      writeFileSync(join(outDir, `${name}-${mode}.svg`), icon(name, palette));
+    }
+    writeFileSync(join(outDir, `footer-${mode}.svg`), footer(palette));
   }
-  writeFileSync(join(outDir, `footer-${mode}.svg`), footer(palette));
+  console.info(`Wrote ${Object.keys(palettes).length * (Object.keys(props).length + 1)} SVGs to ${outDir}`);
 }
-console.info(`Wrote ${Object.keys(palettes).length * (Object.keys(props).length + 1)} SVGs to ${outDir}`);
