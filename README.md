@@ -72,6 +72,30 @@ kyan := Developer{
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🐹 Task Manager API</h3>
+      <p>Multi-tenant task &amp; project REST API on Go's standard library: JWT auth, owner/admin/member RBAC, filters &amp; pagination, background reminder worker. No framework, no ORM.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
+      </p>
+      <a href="https://github.com/kianlabs/task-api"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 DocuAsk</h3>
+      <p>Multi-tenant RAG app: upload PDFs, ask questions, get answers with clickable page citations. Tenant isolation via PostgreSQL Row-Level Security.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      </p>
+      <a href="https://github.com/kianlabs/docuask"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>☕ Rahardjo Finance</h3>
       <p>Finance &amp; inventory web app for a coffee shop (client work): shift reports, stock, weighted-average HPP, P&amp;L.</p>
       <p>
