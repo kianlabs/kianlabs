@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 100" width="140" height="100" role="img" aria-label="Gopher with a bar chart">
+  <title>Gopher with a bar chart</title>
+  <style>
+    svg { --bg:#0d1117; --fg:#e6edf3; --muted:#9198a1; --line:#30363d; --accent:#00add8;
+          --gopher:#00add8; --shade:#0090b5; --tan:#f5d6a8; --pupil:#1f2328; }
+    .ink { fill: none; stroke: var(--fg); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    .body { fill: var(--gopher); stroke: var(--fg); stroke-width: 3; stroke-linejoin: round; }
+    .shade { fill: var(--shade); }
+    .white { fill: #fff; stroke: var(--fg); stroke-width: 3; stroke-linejoin: round; }
+    .tan { fill: var(--tan); stroke: var(--fg); stroke-width: 3; stroke-linejoin: round; }
+    .dark { fill: var(--pupil); }
+    .light { fill: #fff; }
+    .seam { fill: none; stroke: var(--pupil); stroke-width: 2; stroke-linecap: round; }
+    .acc { fill: var(--accent); }
+    .acc-s { fill: none; stroke: var(--accent); stroke-width: 3; stroke-linecap: round; }
+    .muted { fill: var(--muted); }
+    .txt { fill: var(--fg); }
+    .fb { transform-box: fill-box; transform-origin: center; }
+    .blink { animation: blink 5s 1s infinite; }
+    .look { animation: look 8s ease-in-out 2s infinite; }
+    .bob { animation: bob 3s ease-in-out infinite; }
+    .wave { transform-box: view-box; animation: wave 1.6s ease-in-out infinite; }
+    .spin { animation: spin 6s linear infinite; }
+    .flicker { transform-box: fill-box; transform-origin: top; animation: flicker .25s ease-in-out infinite alternate; }
+    .grow { transform-box: fill-box; transform-origin: bottom; animation: grow 2.4s ease-in-out infinite; }
+    .swing { transform-box: view-box; animation: swing 2.6s ease-in-out infinite; }
+    .steam { animation: steam 2.6s ease-in-out infinite; }
+    .bounce { animation: bounce 1.8s ease-in-out infinite; }
+    .pop { animation: pop 1.8s ease-in-out infinite; }
+    .float { animation: float 5s ease-in-out infinite; }
+    .twinkle { animation: twinkle 2.2s ease-in-out infinite; }
+    @keyframes blink { 0%, 92%, 100% { transform: scaleY(1); } 95% { transform: scaleY(.08); } }
+    @keyframes look { 0%, 35%, 100% { transform: translateX(0); } 45%, 70% { transform: translateX(3px); } }
+    @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+    @keyframes wave { 0%, 100% { transform: rotate(0deg); } 25% { transform: rotate(-18deg); } 75% { transform: rotate(14deg); } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes flicker { from { transform: scaleY(.7); } to { transform: scaleY(1.15); } }
+    @keyframes grow { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(.55); } }
+    @keyframes swing { 0%, 100% { transform: rotate(-9deg); } 50% { transform: rotate(9deg); } }
+    @keyframes steam { 0% { opacity: 0; transform: translateY(5px); } 45% { opacity: .9; } 100% { opacity: 0; transform: translateY(-9px); } }
+    @keyframes bounce { 0%, 100% { transform: translateY(0); } 40% { transform: translateY(-6px); } 60% { transform: translateY(1px); } }
+    @keyframes pop { 0%, 30% { opacity: 0; transform: scale(.4); } 55% { opacity: 1; transform: scale(1.1); } 100% { opacity: 0; transform: scale(1) translateY(-8px); } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    @keyframes twinkle { 0%, 100% { opacity: .35; transform: scale(.7); } 50% { opacity: 1; transform: scale(1.1); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g class="bob">
+    <circle class="body" cx="24" cy="28" r="9"/>
+    <circle class="body" cx="76" cy="28" r="9"/>
+    <circle class="shade" cx="24" cy="28" r="4"/>
+    <circle class="shade" cx="76" cy="28" r="4"/>
+    <path class="body" d="M16 106 L16 52 C16 26 32 14 50 14 C68 14 84 26 84 52 L84 106 Z"/>
+    <path class="shade" d="M76 34 C81 44 82.5 56 82.5 70 L82.5 104 L78 104 L78 70 C78 56 77.5 45 76 34 Z"/>
+    
+    <g class="fb blink">
+      <circle class="white" cx="38" cy="44" r="11"/>
+      <g class="look">
+        <circle class="dark" cx="39.5" cy="46" r="4.4"/>
+        <circle class="light" cx="41" cy="44.4" r="1.5"/>
+      </g>
+    </g>
+    
+    <g class="fb blink">
+      <circle class="white" cx="62" cy="44" r="11"/>
+      <g class="look">
+        <circle class="dark" cx="63.5" cy="46" r="4.4"/>
+        <circle class="light" cx="65" cy="44.4" r="1.5"/>
+      </g>
+    </g>
+    <ellipse class="tan" cx="50" cy="63" rx="10" ry="7"/>
+    <ellipse class="dark" cx="50" cy="58" rx="5" ry="3.4"/>
+    <rect class="white" x="46.5" y="68" width="7" height="6" rx="1.5" style="stroke-width:2"/>
+    <path class="seam" d="M50 69 V73"/></g>
+    <rect class="acc grow" x="98" y="62" width="10" height="22" rx="2" style="animation-delay:-.8s"/>
+    <rect class="acc grow" x="112" y="48" width="10" height="36" rx="2" style="animation-delay:-1.6s"/>
+    <rect class="acc grow" x="126" y="34" width="10" height="50" rx="2"/>
+    <path class="ink" d="M94 86 H138"/>
+</svg>

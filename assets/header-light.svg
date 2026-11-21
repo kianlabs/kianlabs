@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="title desc">
+  <title id="title">Ridzkyan Buti Pratama — Full-Stack Web Developer</title>
+  <desc id="desc">A line-art Go gopher typing on a laptop next to a coffee mug, beside the name Ridzkyan Buti Pratama and a terminal that prints "open to work".</desc>
+  <style>
+    svg {
+      --bg: #ffffff; --panel: #f6f8fa; --fg: #1f2328; --muted: #59636e;
+      --line: #d1d9e0; --dot: #e6eaef; --accent: #0a7ea4; --ok: #1a7f37;
+      --gopher: #00add8; --gopher-shade: #0090b5; --tan: #f5d6a8; --pupil: #1f2328;
+    }
+    .g-body { fill: var(--gopher); stroke: var(--fg); stroke-width: 3.2; stroke-linejoin: round; }
+    .g-shade { fill: var(--gopher-shade); }
+    .g-white { fill: #ffffff; stroke: var(--fg); stroke-width: 3.2; }
+    .g-tan { fill: var(--tan); stroke: var(--fg); stroke-width: 3.2; stroke-linecap: round; stroke-linejoin: round; }
+    .g-pupil { fill: var(--pupil); }
+    .g-light { fill: #ffffff; }
+    .g-line { fill: none; stroke: var(--pupil); stroke-width: 2.4; stroke-linecap: round; }
+    .bg { fill: var(--bg); }
+    .frame { fill: none; stroke: var(--line); stroke-width: 1.5; }
+    .dot { fill: var(--dot); }
+    .ink { fill: none; stroke: var(--fg); stroke-width: 3.2; stroke-linecap: round; stroke-linejoin: round; }
+    .inkfill { fill: var(--bg); stroke: var(--fg); stroke-width: 3.2; stroke-linecap: round; stroke-linejoin: round; }
+    .solid { fill: var(--fg); }
+    .hole { fill: var(--bg); }
+    .accent { fill: var(--accent); }
+    .accent-line { fill: none; stroke: var(--accent); stroke-width: 4; stroke-linecap: round; }
+    .term { fill: var(--panel); stroke: var(--line); stroke-width: 1.5; }
+    .mask { fill: var(--panel); }
+    .sans { font-family: -apple-system, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .label { fill: var(--accent); font-size: 20px; }
+    .name { fill: var(--fg); font-size: 52px; font-weight: 700; }
+    .sub { fill: var(--muted); font-size: 24px; }
+    .code { fill: var(--fg); font-size: 18px; }
+    .code-muted { fill: var(--muted); }
+    .code-accent { fill: var(--accent); }
+    .token { fill: var(--accent); font-size: 20px; opacity: .75; }
+    .ok { fill: var(--ok); }
+
+    /* Final state is the default, so reduced motion shows a complete picture. */
+    .draw { stroke-dasharray: 1500; animation: draw 1.8s ease-out both; }
+    .draw-late { animation-delay: .9s; animation-duration: 1s; }
+    .rise { animation: rise .7s ease-out both; }
+    .d1 { animation-delay: .15s; } .d2 { animation-delay: .35s; } .d3 { animation-delay: .55s; } .d4 { animation-delay: .8s; }
+    .type1 { transform: translateX(200px); animation: type1 1.2s steps(15, end) 1.2s both; }
+    .type2 { transform: translateX(420px); animation: type2 1.8s steps(34, end) 2.7s both; }
+    .cursor { animation: cursor 1s 4.5s infinite both; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-in-out 4.5s infinite; }
+    .bob { animation: bob 3.2s ease-in-out 1.8s infinite; }
+    .blink { transform-box: fill-box; transform-origin: center; animation: blink 5s 2s infinite; }
+    .look { animation: look 9s ease-in-out 2.5s infinite; }
+    .paw-l { animation: tap .32s ease-in-out 1.8s infinite alternate; }
+    .paw-r { animation: tap .32s ease-in-out 1.96s infinite alternate; }
+    .steam { animation: steam 2.8s ease-in-out infinite; }
+    .steam-2 { animation-delay: 1.4s; }
+    .float { animation: float 6s ease-in-out infinite; }
+    .f2 { animation-delay: -2s; } .f3 { animation-delay: -4s; }
+    .sparkle { transform-box: fill-box; transform-origin: center; animation: sparkle 2.4s ease-in-out infinite; }
+
+    @keyframes draw { from { stroke-dashoffset: 1500; fill-opacity: 0; } 70% { fill-opacity: 0; } to { stroke-dashoffset: 0; fill-opacity: 1; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes type1 { from { transform: translateX(0); } to { transform: translateX(200px); } }
+    @keyframes type2 { from { transform: translateX(0); } to { transform: translateX(420px); } }
+    @keyframes cursor { 0%, 50% { opacity: 0; } 50.1%, 100% { opacity: 1; } }
+    @keyframes pulse { 0%, 100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.35); opacity: .55; } }
+    @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+    @keyframes blink { 0%, 93%, 100% { transform: scaleY(1); } 96% { transform: scaleY(.08); } }
+    @keyframes look { 0%, 35%, 100% { transform: translateX(0); } 42%, 70% { transform: translateX(-7px); } }
+    @keyframes tap { from { transform: translateY(0); } to { transform: translateY(-5px); } }
+    @keyframes steam { 0% { opacity: 0; transform: translateY(8px); } 45% { opacity: .9; } 100% { opacity: 0; transform: translateY(-14px); } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+    @keyframes sparkle { 0%, 100% { transform: scale(.6) rotate(0deg); opacity: .4; } 50% { transform: scale(1.1) rotate(45deg); opacity: 1; } }
+
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle class="dot" cx="2" cy="2" r="1.4"/>
+    </pattern>
+    <clipPath id="term-clip"><rect x="72" y="264" width="516" height="88" rx="9"/></clipPath>
+  </defs>
+
+  <!-- Canvas -->
+  <rect class="bg" x="1" y="1" width="1198" height="418" rx="18"/>
+  <rect x="1" y="1" width="1198" height="418" rx="18" fill="url(#grid)"/>
+  <rect class="frame" x="1" y="1" width="1198" height="418" rx="18"/>
+
+  <!-- Intro text -->
+  <text class="mono label rise d1" x="72" y="110">// hello, world — I'm</text>
+  <text class="sans name rise d2" x="70" y="172">Ridzkyan Buti Pratama</text>
+  <path class="accent-line draw draw-late" d="M74 192 C 230 184 430 196 640 187"/>
+  <text class="sans sub rise d3" x="72" y="230">Full-Stack Web Developer · Backend Focused</text>
+
+  <!-- Terminal -->
+  <g class="rise d4">
+    <rect class="term" x="70" y="262" width="520" height="92" rx="10"/>
+    <g clip-path="url(#term-clip)">
+      <text class="mono code" x="92" y="300"><tspan class="code-accent">$</tspan> go run ./kyan</text>
+      <rect class="mask type1" x="88" y="281" width="200" height="27"/>
+      <text class="mono code code-muted" x="116" y="334">open to work · Backend / Fullstack</text>
+      <rect class="mask type2" x="112" y="315" width="420" height="27"/>
+      <rect class="accent cursor" x="490" y="318" width="10" height="20" rx="1"/>
+    </g>
+    <circle class="ok pulse" cx="100" cy="328" r="5"/>
+  </g>
+
+  <!-- Floating Go tokens -->
+  <text class="mono token float" x="772" y="120">:=</text>
+  <text class="mono token float f2" x="1062" y="104">func</text>
+  <text class="mono token float f3" x="1112" y="232">chan</text>
+  <path class="accent sparkle" d="M1040 152 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z"/>
+  <path class="accent sparkle" style="animation-delay:-1.2s" d="M790 230 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3 z"/>
+
+  <!-- Gopher -->
+  <g class="bob">
+    <circle class="g-body draw" cx="848" cy="142" r="16"/>
+    <circle class="g-body draw" cx="1012" cy="142" r="16"/>
+    <circle class="g-shade" cx="848" cy="142" r="7"/>
+    <circle class="g-shade" cx="1012" cy="142" r="7"/>
+    <path class="g-body draw" d="M828 396 L828 252 C828 160 868 108 930 108 C992 108 1032 160 1032 252 L1032 396 Z"/>
+    <path class="g-shade" d="M1012 200 C1020 230 1022 262 1022 300 L1022 394 L1030 394 L1030 252 C1030 228 1024 210 1012 200 Z"/>
+
+    <g class="blink">
+      <circle class="g-white draw" cx="892" cy="174" r="32"/>
+      <g class="look">
+        <circle class="g-pupil" cx="899" cy="178" r="11"/>
+        <circle class="g-light" cx="903" cy="173" r="3.6"/>
+      </g>
+    </g>
+    <g class="blink">
+      <circle class="g-white draw" cx="968" cy="174" r="32"/>
+      <g class="look">
+        <circle class="g-pupil" cx="975" cy="178" r="11"/>
+        <circle class="g-light" cx="979" cy="173" r="3.6"/>
+      </g>
+    </g>
+
+    <ellipse class="g-tan draw" cx="930" cy="228" rx="26" ry="17"/>
+    <ellipse class="g-pupil" cx="930" cy="215" rx="12" ry="8"/>
+    <rect class="g-white draw" x="921" y="240" width="18" height="15" rx="3"/>
+    <path class="g-line" d="M930 242 V253"/>
+  </g>
+
+  <!-- Laptop (back of the lid) -->
+  <rect class="inkfill draw" x="838" y="282" width="184" height="112" rx="10"/>
+  <text class="mono accent" x="930" y="346" font-size="26" text-anchor="middle">{ }</text>
+  <g class="paw-l">
+    <ellipse class="g-tan" cx="868" cy="280" rx="16" ry="10"/>
+    <path class="g-line" d="M863 277 v5 M873 277 v5"/>
+  </g>
+  <g class="paw-r">
+    <ellipse class="g-tan" cx="992" cy="280" rx="16" ry="10"/>
+    <path class="g-line" d="M987 277 v5 M997 277 v5"/>
+  </g>
+
+  <!-- Coffee mug -->
+  <path class="ink steam" d="M1086 338 c-9 -8 9 -14 0 -24"/>
+  <path class="ink steam steam-2" d="M1102 338 c-9 -8 9 -14 0 -24"/>
+  <path class="inkfill draw" d="M1070 350 L1074 394 L1112 394 L1116 350 Z"/>
+  <path class="ink draw" d="M1115 360 C1134 360 1134 384 1113 384"/>
+  <path class="accent-line" style="stroke-width:3" d="M1072 366 H1114"/>
+
+  <!-- Desk -->
+  <path class="ink draw" d="M736 394 C860 391 1000 396 1160 392"/>
+</svg>
